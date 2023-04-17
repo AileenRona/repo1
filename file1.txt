@@ -2,6 +2,9 @@ Here lies initial configuration
 
 I have added the first line
 
-Modification is here
+A new modification made in this line
+something
 
 I am adding functionality
+
+something something
