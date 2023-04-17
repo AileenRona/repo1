@@ -1,1 +1,5 @@
+Here lies initial configuration
+
 I have added the first line
+
+I am adding functionality
